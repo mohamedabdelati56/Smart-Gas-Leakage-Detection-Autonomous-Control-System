@@ -73,4 +73,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Developed by [Your Name/Username]** *Feel free to star ⭐ this repository if you found it helpful!*
+**Developed by Mohammed Abdel-aty** *Feel free to star ⭐ this repository if you found it helpful!*
